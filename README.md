@@ -1,3 +1,3 @@
 # Year-8-Coding-Investigation-1-The-Cartesian-Plane-and-Pythagorean-Triples
 
-School forced to do
+A small game between 2 players, in a cartesian plane between -800 and 800. Both players take turns moving towards a destination. First person to get within 10 units of destination wins. If the players get within 10 units of each other, the person who made the move loses. You input how much you want to move and what direction. There are 8 directions on the cartesian plane.  each direction is 45 degrees of the cartesian plane, starting on the positive x axis and going anticlockwise, until 360 degrees is reached with direction 8. If you don't move within 10 seconds, a random move will be made for you. My friend carried me for this. I hope it's half decent. 
